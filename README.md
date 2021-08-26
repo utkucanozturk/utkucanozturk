@@ -1,6 +1,5 @@
 ## 👋&nbsp;Hi! I'm a data scientist.
  
-  - 👨‍💻&nbsp;I learned to code in 2014.
   - 🎓I'm studying Data Science at <a href = "https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html"> LMU Munich</a> (Germany).
   - 🎯I'm currently deepen and learning new languages and methods in the field of data science.
 <br>
