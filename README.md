@@ -2,7 +2,7 @@
  
   - 🎓I'm studying Data Science at <a href = "https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html" target="_blank"> LMU Munich</a> (Germany).
   - 🎯I'm currently deepen and learning new languages and methods in the field of data science.
-  - Check out my resume and portfolio from <a href = "https://utkucanozturk.github.io/utkucanozturk/" target="_blank">this link</a>
+  - Check out my resume and portfolio from <a href = "https://utkucanozturk.github.io/utkucanozturk/" target="_blank">this link</a>.
 <br>
 
 ## :computer:&nbsp;Languages
