@@ -1,7 +1,8 @@
 ## 👋&nbsp;Hi! I'm a data scientist.
  
-  - 🎓I'm studying Data Science at <a href = "https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html"> LMU Munich</a> (Germany).
+  - 🎓I'm studying Data Science at <a href = "https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html" target="_blank"> LMU Munich</a> (Germany).
   - 🎯I'm currently deepen and learning new languages and methods in the field of data science.
+  - Check out my resume and portfolio from <a href = "https://utkucanozturk.github.io/utkucanozturk/" target="_blank">this link</a>
 <br>
 
 ## :computer:&nbsp;Languages
@@ -28,6 +29,6 @@
 
 ## 💬&nbsp;Social Accounts
 <p align='left'>
-<a href="https://instagram.com/utkucanozturk/"><img height="40" src="https://img.icons8.com/doodle/48/000000/instagram-new.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/utkucanozturk/"><img height="40" src="https://img.icons8.com/doodle/48/000000/linkedin.png"></a>
+<a href="https://instagram.com/utkucanozturk/" target="_blank"><img height="40" src="https://img.icons8.com/doodle/48/000000/instagram-new.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/utkucanozturk/" target="_blank"><img height="40" src="https://img.icons8.com/doodle/48/000000/linkedin.png"></a>
 </p>
