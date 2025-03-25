@@ -7,7 +7,7 @@
 </p>
 <br>
   
-## :book:&nbsp;Courses
+## :book:&nbsp;Academic Background
  
   - Statistical Reasoning and Inference
   - Knowledge Discovery and Data Mining
@@ -20,7 +20,7 @@
   - Deep Learning
 <br>                  
 
-## 💬&nbsp;Social Accounts
+## 💬&nbsp;Let's connect!
 <p align='left'>
 <a href="https://www.linkedin.com/in/utkucanozturk/" target="_blank"><img height="40" src="https://img.icons8.com/doodle/48/000000/linkedin.png"></a>
 </p>
